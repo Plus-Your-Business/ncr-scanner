@@ -1,0 +1,20 @@
+{
+  "name": "ncr-scanner",
+  "version": "0.1.1",
+  "description": "Scans your recent business activity for potential non-conformances (NCRs), presents candidates for your review, and optionally saves approved items to a spreadsheet. Built for users with HubSpot connected to Claude. Part of the GuardHub suite of quality and governance tools from Plus Your Business. Supports an internal quality or NCR process; it is not a substitute for a certified management system.",
+  "author": {
+    "name": "Plus Your Business"
+  },
+  "homepage": "https://www.plusyourbusiness.com",
+  "license": "MIT",
+  "keywords": [
+    "guardhub",
+    "hubspot",
+    "ncr",
+    "non-conformance",
+    "quality",
+    "iso-9001",
+    "iso-27001",
+    "iso-42001"
+  ]
+}
